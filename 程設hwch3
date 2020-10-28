@@ -142,4 +142,25 @@ Enter a string:str2=str1+'i8'
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 NameError: name 'str2' is not defined
->>>
+6.
+>>>41/5
+8.2
+>>> 41//5
+8
+>>> 41%5
+1
+>>> 50%5
+0
+>>> 1%2
+1
+>>> 35%3
+2
+>>> 45+4*3-12
+45
+>>> 45+34%3*(21*3%2)
+46
+>>> 6**3-21
+195
+>>> 100**0.5*2-29
+-9.0
+
